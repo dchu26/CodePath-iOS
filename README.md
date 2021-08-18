@@ -30,15 +30,17 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/GmOaGqEoQP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+The most challenging part about building the app was attempting to figure out how to maintain the changes to the values in SettingViewController and allowing those changes to affect ViewController, which I was unable to figure out. 
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [David Chu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
